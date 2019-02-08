@@ -6,7 +6,9 @@ QQ/微信: 40334120
 
 星座：射手座
 
-邮箱：franck_xl@126.com 或 frank_hslcn@hotmail.com
+邮箱：franck_xl@126.com 
+
+城市：安徽省合肥市
 
 ## 博客
 新浪博客 
