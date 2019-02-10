@@ -16,7 +16,7 @@ QQ: 40334120
 
 户籍所在地：安徽合肥瑶海区
 
-居住城市：上海市徐汇区
+居住城市：上海市
 
 ## 公开履历
 
@@ -25,15 +25,21 @@ QQ: 40334120
 - 新青年X软件训练营 联合创始人
 - 吉林大学计算机专科、上海交通大学在职硕士
 - 曾任职于盛大网络、Autodesk等公司，担任软件工程师
+- 曾任微软最有价值专家，但因被某人揭露以微软名义骗钱做培训之后，于2018年被微软MVP组开除。
 - 苍老师忠实粉丝，追求“德艺双馨”
+- 座右铭：Stay hungry Stay Foolish (谦卑若愚，好学若饥)
 
 ## 博客
 [新浪博客](http://blog.sina.com.cn/frankxulei)
 
 [51cto博客](http://blog.51cto.com/frankxulei)
 
-[优酷](http://i.youku.com/i/UMzA5ODY1MjE2/videos)
+## 运营的QQ群
 
-[51cto学院](http://edu.51cto.com/lecturer/user_id-1596834.html)
+群号：29754721，群名：微软MSDN技术俱乐部
 
-[阿里云栖视频](https://yq.aliyun.com/live/583)
+群号：166599314，群名：微软WCF与SOA学习交流群
+
+群号：35688353，群名：微软.NET学习交流群
+
+群号: 231838185，群名：微软ASP.NET MVC学习
