@@ -4,13 +4,17 @@
 
 QQ: 40334120
 
+微信: 40334120
+
 生日：12月21日 
 
 星座：射手座
 
 邮箱：franck_xl@126.com 
 
-城市：安徽省合肥市
+户籍所在地：安徽合肥瑶海区
+
+居住城市：上海市徐汇区
 
 ## 公开履历
 
@@ -22,22 +26,12 @@ QQ: 40334120
 - 苍老师忠实粉丝，追求“德艺双馨”
 
 ## 博客
-新浪博客 
+[新浪博客](http://blog.sina.com.cn/frankxulei)
 
-http://blog.sina.com.cn/frankxulei
+[51cto博客](http://blog.51cto.com/frankxulei)
 
-51cto博客 
+[优酷](http://i.youku.com/i/UMzA5ODY1MjE2/videos)
 
-http://blog.51cto.com/frankxulei
+[51cto学院](http://edu.51cto.com/lecturer/user_id-1596834.html)
 
-优酷
-
-http://i.youku.com/i/UMzA5ODY1MjE2/videos
-
-51cto学院
-
-http://edu.51cto.com/lecturer/user_id-1596834.html
-
-云栖视频
-
-https://yq.aliyun.com/users/1293213363694555
+[阿里云栖视频](https://yq.aliyun.com/live/583)
