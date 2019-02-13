@@ -12,6 +12,8 @@ Email：franck_xl@126.com
 
 Hometown：安徽合肥瑶海区
 
+Github: https://github.com/FrankXuLei
+
 ## 公开履历 Public Profile
 
 - 上海梦课堂信息技术有限公司 法人代表 - Owner of Dream Class Tech Ltd.
@@ -31,7 +33,7 @@ Hometown：安徽合肥瑶海区
 
 ## 运营的QQ群
 
-群号：29754721，群名：微软MSDN技术俱乐部 - Microsoft MSDN technical club
+群号：29754721，群名：微软MSDN技术俱乐部 - Microsoft MSDN club
 
 群号：166599314，群名：微软WCF与SOA学习交流群
 
