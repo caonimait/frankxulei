@@ -6,7 +6,7 @@ QQ: 40334120
 
 WeChat: 40334120
 
-Birthday：12月21日 
+Birthday：11/15
 
 Email：franck_xl@126.com 
 
